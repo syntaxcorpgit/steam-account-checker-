@@ -30,3 +30,8 @@ cd steam-account-checker
 
 # Install dependencies
 pip install requests
+
+## 🚀 Quick Start
+
+### Installation
+```bash
