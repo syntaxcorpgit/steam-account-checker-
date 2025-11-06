@@ -1,7 +1,6 @@
 
 
-![External Image]( <img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/79105d30-e1a7-4044-9a82-9f739fefb2a6" />
- )
+![External Image](https://i.imgur.com/ApFZbfM.png)
 
 
 # Steam Account Checker 🎮
