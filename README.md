@@ -1,6 +1,8 @@
 
 
-!(blob:https://imgur.com/edd8b807-1aa7-4359-8bb4-09bad1eb7df9)
+![External Image]( <img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/79105d30-e1a7-4044-9a82-9f739fefb2a6" />
+ )
+
 
 # Steam Account Checker 🎮
 
