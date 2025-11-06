@@ -27,3 +27,8 @@ cd steam-account-checker
 
 # Install dependencies
 pip install requests
+
+
+username1:password123
+username2:password456
+username3:password789
