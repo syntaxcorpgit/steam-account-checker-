@@ -1,6 +1,6 @@
 # Steam Account Checker 🎮
 
-A sophisticated Python tool for checking Steam account validity with advanced anti-block protection and comprehensive logging.
+A sophisticated Python tool for checking Steam account validity with advanced anti-block protection and comprehensive logging..
 
 ![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
